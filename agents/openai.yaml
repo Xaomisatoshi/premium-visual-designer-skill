@@ -1,0 +1,17 @@
+interface:
+  display_name: premium visual designer
+  short_description: Premium visual design and art-direction workflow for turning
+    rough ideas, brands, agent profiles, offers, documents, slides, websites, social
+    posts, thumbnails, image prompts, and visual systems into a clear, high-quality
+    visual direction. Use when the user asks for a premium look, visual identity,
+    moodboard, design concept, image prompt, slide/document style, UI/landing-page
+    direction, brand aesthetic, logo concept, poster/ad visual, or creative direction.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
